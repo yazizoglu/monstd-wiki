@@ -5,24 +5,57 @@ tags: [bosses]
 
 # Bosses
 
-Bosses appear at wave 5, 10, 15, 20, and 25 of each level. Each boss has unique phases and mechanics that require reactive play. The final boss (wave 25) is especially dangerous — allowing it to escape costs **10 lives** and cancels the wave bonus.
+Bosses appear on waves 5, 10, 15, 20, and 25 of every map. Each boss is hand-tuned — stats and resistances do not follow the standard wave scaling formula.
+
+Final bosses (wave 25) carry a 10-life penalty on escape.
 
 ---
 
-## Boss Roster
+## Map 1 — Cursed Wilds
 
-| Boss | Level | Core Mechanic | Lives Penalty |
+| Wave | Boss | HP | Key Traits |
 |---|---|---|---|
-| [[Necromancer King]] | Level 1 | Summons skeleton minions | 10 |
-| [[Frost Titan]] | Level 2 | Freezes nearby towers temporarily | 10 |
-| [[Storm Dragon]] | Level 3 | Flies erratically, chain lightning aura | 10 |
-
-> Mini-bosses (waves 5, 10, 15, 20) cost **3 lives** on escape. Final boss (wave 25) costs **10 lives**.
+| 5 | [[Ent]] | 480 | Poison Resist, Armor |
+| 10 | [[Golem]] | 900 | Armor, Poison Resist |
+| 15 | [[Medusa]] | 1400 | — |
+| 20 | [[Crimson Stalker]] | 2400 | Armor |
+| 25 | [[Twin Dragon]] | 3800 | Fire Immune, Heavy Armor |
 
 ---
 
-## Boss Design Goals
+## Map 2 — Volcanic Inferno
 
-- Each boss should feel dangerous and require a response — not just more damage
-- Final bosses should force players to examine their entire build, not just spam one tower
-- Phase mechanics add urgency without requiring foreknowledge on the first attempt
+| Wave | Boss | HP | Key Traits |
+|---|---|---|---|
+| 5 | [[Lav Golem]] | 950 | Fire Immune, Armor |
+| 10 | [[Rat King]] | 2100 | Poison Resist |
+| 15 | [[Vampire]] | 3000 | Regenerating, Frost Immune |
+| 20 | [[Lizardman]] | 3300 | Heavy Armor |
+| 25 | [[Demon]] | 4600 | Fire Immune, Lightning Immune, Heavy Armor |
+
+---
+
+## Map 3 — Frozen Tundra
+
+| Wave | Boss | HP | Key Traits |
+|---|---|---|---|
+| 5 | [[Ice Golem]] | 1100 | Frost Immune, Armor |
+| 10 | [[Frozen Knight]] | 1750 | Frost Immune, Lightning Immune, Heavy Armor |
+| 15 | [[Vampire]] | 3000 | Regenerating, Frost Immune |
+| 20 | [[Lich]] | 3600 | Frost Immune |
+| 25 | [[Frostmourne Demon]] | 6000 | Frost Immune, Lightning Immune, Heavy Armor |
+
+---
+
+## Damage Resistance Reference
+
+| Trait | Resistant To | Weak To |
+|---|---|---|
+| Fire Immune | Fire (−75%) | Frost (+50%) |
+| Frost Immune | Frost (−75%) | Fire (+50%) |
+| Lightning Resist | Lightning (−70%) | — |
+| Poison Resist | Poison (−75%) | — |
+| Armor Plated | Physical (−35%) | Lightning (+35%) |
+| Regenerating | — | Poison (+50%) |
+
+See [[Damage Types Guide]] for full mechanics.

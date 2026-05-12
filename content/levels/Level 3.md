@@ -7,24 +7,24 @@ tags: [levels, level-3]
 
 ## Overview
 
-The Frozen Tundra is the most challenging campaign level. Enemies have elevated frost resistance, neutralizing the [[Frost Tower]] crowd-control value. The [[Storm Dragon]] final boss flies erratically and disrupts nearby towers with a lightning aura.
+The Frozen Tundra is the most challenging campaign level. Every boss is immune to Frost and the final boss is immune to both Frost and Lightning — Frost Tower players must completely retool their build strategy.
 
 | Property | Value |
 |---|---|
 | World | Frozen Tundra |
 | Waves | 25 |
-| Final Boss | [[Storm Dragon]] |
+| Final Boss | [[Frostmourne Demon]] |
 | Difficulty | Advanced |
-| Unlocks | Endless Mode (Tundra) |
+| Unlocks | Endless Mode (Frozen Tundra) |
 
 ---
 
 ## Introduced Mechanics
 
-- Widespread frost resistance — [[Frost Tower]] nearly ineffective
-- Fast frost-adapted ground enemies
-- Flying boss with erratic movement
-- Lightning aura mechanic (Storm Dragon)
+- Frost immunity on all bosses — [[Frost Tower]] damage is wasted on bosses
+- Lightning immunity ([[Frozen Knight]], [[Frostmourne Demon]]) — removes armor counter on hardest bosses
+- Regeneration ([[Vampire]] boss, wave 15) — requires Poison
+- [[Knight]] ground enemies (from wave 6) — armored at medium speed
 
 ---
 
@@ -32,11 +32,11 @@ The Frozen Tundra is the most challenging campaign level. Enemies have elevated 
 
 | Tower | Priority | Reason |
 |---|---|---|
-| [[Poison Tower]] | Essential | DoT is unaffected by frost resistance |
-| [[Arrow Tower]] | Essential | Anti-air + anti-flyer for Dragon |
-| [[Lightning Tower]] | High | Armor pierce; some resistance but still viable |
-| [[Cannon Tower]] | Medium | Splash clears groups; no frost resistance |
-| [[Frost Tower]] | Avoid | Nearly all enemies frost-resistant here |
+| [[Poison Tower]] | Essential | Only DoT source; counters Vampire regeneration |
+| Fire-upgraded towers | Essential | Ice weakness on all bosses; Frostmourne Demon counter |
+| [[Arrow Tower]] | High | Volume damage, no resist penalties |
+| [[Lightning Tower]] | Medium | Armor pierce on Knights; useless vs 2 bosses |
+| [[Frost Tower]] | Low | Slow only — all bosses immune to Frost damage |
 
 ---
 
@@ -44,24 +44,33 @@ The Frozen Tundra is the most challenging campaign level. Enemies have elevated 
 
 | Wave Range | Enemies |
 |---|---|
-| 1–4 | [[Goblin]], [[Wolf]] (frost-adapted variants) |
-| 5 | Mini-boss |
-| 6–9 | [[Skeleton]], [[Golem]] |
-| 10 | Mini-boss |
-| 11–19 | Heavy mix: Skeleton, Golem, [[Flying Bat]] |
-| 20 | Mini-boss |
-| 21–24 | All types, max density |
-| 25 | [[Storm Dragon]] |
+| 1–3 | [[Goblin]] |
+| 4–5 | [[Goblin]], [[Troll]] |
+| 5 | Boss — [[Ice Golem]] |
+| 6–9 | [[Goblin]], [[Troll]], [[Knight]] |
+| 10 | Boss — [[Frozen Knight]] |
+| 11–14 | [[Goblin]], [[Troll]], [[Knight]] |
+| 15 | Boss — [[Vampire]] |
+| 16–19 | [[Goblin]], [[Troll]], [[Knight]] |
+| 20 | Boss — [[Lich]] |
+| 21–24 | Heavy mix: Troll, Knight |
+| 25 | [[Frostmourne Demon]] |
 
 ---
 
-## Boss
+## Boss Summary
 
-**[[Storm Dragon]]** — Wave 25. Flying, erratic movement, lightning aura disrupts adjacent towers. Frost and Physical resistant. [[Poison Tower]] is the most reliable damage source.
+| Wave | Boss | HP | Counter |
+|---|---|---|---|
+| 5 | [[Ice Golem]] | 1100 | Fire, Lightning |
+| 10 | [[Frozen Knight]] | 1750 | Fire, Poison, Arrow |
+| 15 | [[Vampire]] | 3000 | Poison (mandatory) |
+| 20 | [[Lich]] | 3600 | Fire, Poison |
+| 25 | [[Frostmourne Demon]] | 6000 | Fire (mandatory), Poison |
 
 ---
 
 ## Difficulty Notes
 
-- Normal: Frost Tower investment from earlier levels becomes a liability — retool your build
-- Hard: Dragon Phase 3 surge speed is extremely fast; pre-placed Poison DoT coverage is critical
+- Normal: Plan fire upgrade paths from wave 1 — you will need them by wave 5
+- Hard: Frozen Knight + Frostmourne Demon double lightning immunity means no armor counter — Poison must cover DPS gap

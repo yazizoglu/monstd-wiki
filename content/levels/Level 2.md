@@ -1,30 +1,30 @@
 ---
-title: Level 2 — Volcanic Highlands
+title: Level 2 — Volcanic Inferno
 tags: [levels, level-2]
 ---
 
-# Level 2 — Volcanic Highlands
+# Level 2 — Volcanic Inferno
 
 ## Overview
 
-The Volcanic Highlands introduces armored enemies and flying threats. Players must diversify beyond [[Physical]] damage and add [[Lightning Tower]] to their build to stay effective. Fire-resistant enemies appear here, making [[Frost Tower]] a strong pick.
+The Volcanic Inferno introduces flying threats and fire-immune bosses. Players must maintain Arrow or Lightning Tower coverage at all times or Imps will fly directly to the exit.
 
 | Property | Value |
 |---|---|
-| World | Volcanic Highlands |
+| World | Volcanic Inferno |
 | Waves | 25 |
-| Final Boss | [[Frost Titan]] |
+| Final Boss | [[Demon]] |
 | Difficulty | Intermediate |
-| Unlocks | Endless Mode (Volcano) |
+| Unlocks | Endless Mode (Volcanic Inferno) |
 
 ---
 
 ## Introduced Mechanics
 
-- Armored enemies ([[Golem]]) — require [[Lightning]] or [[Poison]]
-- Flying enemies ([[Flying Bat]]) — require [[Arrow Tower]] anti-air
-- Fire resistance on enemies — [[Cannon Tower]] loses some value
-- Frost resistance ([[Skeleton]]) — [[Frost Tower]] less reliable as sole support
+- Flying enemies ([[Imp]]) — only Arrow Tower and Lightning Tower can target
+- Fire immunity (Lav Golem, Demon bosses) — fire upgrade paths blocked
+- Regeneration ([[Vampire]] boss) — requires Poison Tower to counter
+- Heavy armor + multi-resist final boss (Demon)
 
 ---
 
@@ -32,11 +32,11 @@ The Volcanic Highlands introduces armored enemies and flying threats. Players mu
 
 | Tower | Priority | Reason |
 |---|---|---|
-| [[Lightning Tower]] | Essential | Golem armor-pierce |
-| [[Arrow Tower]] | Essential | Anti-air for [[Flying Bat]] |
-| [[Frost Tower]] | High | Strong vs fire-resistant enemies |
-| [[Poison Tower]] | Medium | DoT handles armored efficiently |
-| [[Cannon Tower]] | Low | Fire resistance reduces effectiveness here |
+| [[Arrow Tower]] | Essential | Anti-air for [[Imp]] swarms |
+| [[Lightning Tower]] | High | Chains to flying Imps; anti-armor |
+| [[Frost Tower]] | High | Bonus damage vs fire-immune bosses; slow |
+| [[Poison Tower]] | High | Required for [[Vampire]] boss; strong DoT |
+| [[Cannon Tower]] | Medium | Splash for ground groups |
 
 ---
 
@@ -44,24 +44,33 @@ The Volcanic Highlands introduces armored enemies and flying threats. Players mu
 
 | Wave Range | Enemies |
 |---|---|
-| 1–4 | [[Goblin]], [[Wolf]] |
-| 5 | Mini-boss |
-| 6–9 | [[Golem]], [[Flying Bat]] |
-| 10 | Mini-boss |
-| 11–19 | Mixed: Golem, Flying Bat, Skeleton |
-| 20 | Mini-boss |
-| 21–24 | Heavy armor + flying mix |
-| 25 | [[Frost Titan]] |
+| 1–3 | [[Goblin]] |
+| 4–5 | [[Goblin]], [[Troll]] |
+| 5 | Boss — [[Lav Golem]] |
+| 6–9 | [[Goblin]], [[Troll]], [[Imp]] |
+| 10 | Boss — [[Rat King]] |
+| 11–14 | [[Goblin]], [[Troll]], [[Imp]] |
+| 15 | Boss — [[Vampire]] |
+| 16–19 | [[Goblin]], [[Troll]], [[Imp]] |
+| 20 | Boss — [[Lizardman]] |
+| 21–24 | Heavy mix: Troll, Imp |
+| 25 | [[Demon]] |
 
 ---
 
-## Boss
+## Boss Summary
 
-**[[Frost Titan]]** — Wave 25. Emits a tower-freeze aura. Heavy armor. Frost and Physical resistant. Countered by [[Lightning Tower]] and [[Poison Tower]].
+| Wave | Boss | HP | Counter |
+|---|---|---|---|
+| 5 | [[Lav Golem]] | 950 | Frost (ice bonus), Lightning |
+| 10 | [[Rat King]] | 2100 | Lightning, Arrow, Cannon |
+| 15 | [[Vampire]] | 3000 | Poison (mandatory) |
+| 20 | [[Lizardman]] | 3300 | Lightning, Poison |
+| 25 | [[Demon]] | 4600 | Frost, Poison, Arrow |
 
 ---
 
 ## Difficulty Notes
 
-- Normal: Introduces armor and flying in mid-game waves — don't neglect Lightning early
-- Hard: Armor values significantly increased; [[Cannon Tower]] nearly useless vs Golems without Lightning support
+- Normal: Anti-air coverage from wave 6 is non-negotiable
+- Hard: Imp density in late waves can overwhelm a single Arrow Tower — build two

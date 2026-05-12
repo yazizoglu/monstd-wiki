@@ -1,21 +1,21 @@
 ---
-title: Level 1 — Verdant Forest
+title: Level 1 — Cursed Wilds
 tags: [levels, level-1]
 ---
 
-# Level 1 — Verdant Forest
+# Level 1 — Cursed Wilds
 
 ## Overview
 
-The Verdant Forest is the introductory level of MonsTD. It teaches the core tower placement loop, introduces the wave system, and presents the player with manageable enemy compositions that reward basic diversity.
+The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower placement loop, introduces the wave system, and presents manageable enemy compositions that reward basic build diversity.
 
 | Property | Value |
 |---|---|
-| World | Verdant Forest |
+| World | Cursed Wilds |
 | Waves | 25 |
-| Final Boss | [[Necromancer King]] |
+| Final Boss | [[Twin Dragon]] |
 | Difficulty | Beginner |
-| Unlocks | Endless Mode (Forest) |
+| Unlocks | Endless Mode (Cursed Wilds) |
 
 ---
 
@@ -24,8 +24,8 @@ The Verdant Forest is the introductory level of MonsTD. It teaches the core towe
 - Tower placement
 - Wave system (25 waves)
 - Boss waves (5, 10, 15, 20, 25)
-- [[Physical]] and [[Frost]] damage types
-- Basic gold economy
+- Armor (Troll, Knight, boss Golem) — Lightning counter
+- Poison immunity (Ent, Golem bosses) — limits Poison Tower
 
 ---
 
@@ -35,9 +35,9 @@ The Verdant Forest is the introductory level of MonsTD. It teaches the core towe
 |---|---|---|
 | [[Arrow Tower]] | Essential | Long-range generalist, early coverage |
 | [[Cannon Tower]] | High | Goblin swarm waves require area damage |
+| [[Lightning Tower]] | High | Armor-pierce for Troll, Knight, Golem boss |
 | [[Frost Tower]] | Medium | Support slow; valuable before boss waves |
-| [[Lightning Tower]] | Optional | Armored enemies sparse in Level 1 |
-| [[Poison Tower]] | Optional | Useful for late-wave high-health enemies |
+| [[Poison Tower]] | Low | Ineffective on most bosses here (Ent, Golem immune) |
 
 ---
 
@@ -45,25 +45,34 @@ The Verdant Forest is the introductory level of MonsTD. It teaches the core towe
 
 | Wave Range | Enemies |
 |---|---|
-| 1–4 | [[Goblin]], [[Wolf]] |
-| 5 | Mini-boss |
-| 6–9 | [[Goblin]], [[Wolf]], [[Skeleton]] |
-| 10 | Mini-boss |
-| 11–19 | Mixed: Goblin, Wolf, Skeleton |
-| 20 | Mini-boss |
-| 21–24 | Heavy mix including [[Skeleton]] |
-| 25 | [[Necromancer King]] + Skeleton minions |
+| 1–3 | [[Goblin]] |
+| 4–7 | [[Goblin]], [[Troll]] |
+| 5 | Boss — [[Ent]] |
+| 8–9 | [[Goblin]], [[Troll]], [[Knight]] |
+| 10 | Boss — [[Golem]] |
+| 11–14 | [[Goblin]], [[Troll]], [[Knight]] |
+| 15 | Boss — [[Medusa]] |
+| 16–19 | [[Goblin]], [[Troll]], [[Knight]] |
+| 20 | Boss — [[Crimson Stalker]] |
+| 21–24 | Heavy mix: Troll, Knight |
+| 25 | [[Twin Dragon]] |
 
 ---
 
-## Boss
+## Boss Summary
 
-**[[Necromancer King]]** — Wave 25. Summons [[Skeleton]] minions. Frost-resistant. Countered by [[Lightning Tower]] and [[Poison Tower]].
+| Wave | Boss | HP | Counter |
+|---|---|---|---|
+| 5 | [[Ent]] | 480 | Lightning, Frost |
+| 10 | [[Golem]] | 900 | Lightning |
+| 15 | [[Medusa]] | 1400 | Any |
+| 20 | [[Crimson Stalker]] | 2400 | Poison, Frost |
+| 25 | [[Twin Dragon]] | 3800 | Frost (ice bonus), Lightning |
 
 ---
 
 ## Difficulty Notes
 
-- Easy: Forgiving health pool, extended inter-wave breaks
+- Easy: Forgiving health pool, extra gold income
 - Normal: Standard experience; balanced gold income
 - Hard: Increased enemy speed and health; tighter economy
