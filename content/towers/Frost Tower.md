@@ -5,6 +5,8 @@ tags: [towers, frost]
 
 # Frost Tower
 
+![](/images/tower_frost.png)
+
 ## Overview
 
 The Frost Tower fires ice projectiles that slow all enemies hit. Its damage output is moderate, but the slow effect dramatically increases the time enemies spend in range of other towers — making it a high-value support unit.

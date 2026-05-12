@@ -5,7 +5,7 @@ tags: [levels, level-1]
 
 # Level 1 — Cursed Wilds
 
-![](/images/map1_thumb.png)
+![](/images/island_map1.png)
 
 ## Overview
 

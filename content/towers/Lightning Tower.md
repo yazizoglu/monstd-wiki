@@ -5,6 +5,8 @@ tags: [towers, lightning]
 
 # Lightning Tower
 
+![](/images/tower_lightning.png)
+
 ## Overview
 
 The Lightning Tower fires bolts that chain between nearby enemies, hitting multiple targets per shot. It is the primary counter to armored enemies and excels in dense waves where chain jumps can clear multiple targets simultaneously.

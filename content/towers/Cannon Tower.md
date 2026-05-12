@@ -5,6 +5,8 @@ tags: [towers, physical]
 
 # Cannon Tower
 
+![](/images/tower_cannon.png)
+
 ## Overview
 
 The Cannon Tower fires explosive shells that deal area-of-effect damage on impact. It excels at destroying tightly packed enemy groups but has a lower fire rate and shorter range than the [[Arrow Tower]].

@@ -5,6 +5,8 @@ tags: [towers, physical]
 
 # Arrow Tower
 
+![](/images/tower_arrow.png)
+
 ## Overview
 
 The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-target projectiles with high range and consistent output. Available from the start, it serves as the backbone of most early builds.

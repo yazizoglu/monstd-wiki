@@ -5,6 +5,8 @@ tags: [towers, poison]
 
 # Poison Tower
 
+![](/images/tower_poison.png)
+
 ## Overview
 
 The Poison Tower launches toxin projectiles that apply a damage-over-time (DoT) effect on hit. Its per-hit damage is low, but the stacking DoT makes it devastatingly efficient against high-health enemies and regenerating targets.
