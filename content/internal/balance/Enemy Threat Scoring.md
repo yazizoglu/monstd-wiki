@@ -5,50 +5,88 @@ tags: [internal, balance]
 
 # Enemy Threat Scoring
 
-A framework for rating enemies consistently and identifying gaps or over-tuned entries.
+Gerçek kaynak kodu değerlerine dayalı tehdit puanlama sistemi. Tam model için bkz. [[internal/balance/Balance Model]].
 
 ---
 
-## Scoring Dimensions
+## Formül
 
-Each enemy is rated across four axes (1–5):
+```
+ThreatScore = HP × (speed / 50) × abilityMult × resistMult
+```
 
-| Axis | Description |
-|---|---|
-| **Speed** | How fast the enemy crosses the map |
-| **Durability** | Effective health after resistance modifiers |
-| **Counter Pressure** | How much the enemy forces a specific defensive response |
-| **Group Density** | How many appear per wave, relative to their threat |
-
-**Threat Score = (Speed + Durability + Counter Pressure) × Group Density modifier**
+- **speed / 50**: Baseline 50 pt/s. Goblin (72 pt/s) = 1.44×, Twin Dragon (30 pt/s) = 0.60×
+- **abilityMult**: flying=1.2, regenerating=1.2, diğer=1.0
+- **resistMult**: tek resist=1.3, çift resist=1.5, üçlü resist=1.6–1.8
 
 ---
 
-## Current Enemy Scores
+## Standard Enemy Threat Scores
 
-| Enemy | Speed | Durability | Counter Pressure | Group Mod | Threat |
-|---|---|---|---|---|---|
-| [[Goblin]] | 4 | 1 | 1 | 1.5× | 9 |
-| [[Wolf]] | 5 | 2 | 2 | 1.3× | 12 |
-| [[Skeleton]] | 3 | 3 | 3 | 1.2× | 11 |
-| [[Golem]] | 1 | 5 | 5 | 0.8× | 9 |
-| [[Flying Bat]] | 3 | 2 | 4 | 1.2× | 11 |
+| Enemy | HP | Speed | SpeedM | AbilM | ResistM | **Threat** | Trait |
+|-------|-----|-------|--------|-------|---------|-----------|-------|
+| [[Goblin]] | 60 | 72 | 1.44 | 1.0 | 1.0 | **86** | — |
+| [[Plant\|Frost Plant]] | 140 | 38 | 0.76 | 1.0 | 1.3 | **138** | poisonResist |
+| [[Imp]] | 130 | 70 | 1.40 | 1.2 | 1.0 | **218** | flying |
+| [[Troll]] | 200 | 45 | 0.90 | 1.0 | 1.3 | **234** | armorPlated |
+| [[Gnoll]] | 160 | 65 | 1.30 | 1.2 | 1.0 | **250** | regenerating |
+| [[Knight]] | 240 | 52 | 1.04 | 1.0 | 1.3 | **325** | armorPlated |
 
----
-
-## Calibration Notes
-
-- Target threat range for standard enemies: **8–14**
-- Enemies below 8 should appear in larger groups or be removed
-- Enemies above 14 should be reclassified as mini-boss tier
-- Bosses are not scored on this scale — they have their own phase-based threat model
+> Threat 86 (Goblin) ile 325 (Knight) arasında 3.8× fark var. Knight gelen wave'de Lightning Tower olmaması kritik kayıp anlamına gelir.
 
 ---
 
-## Usage
+## Map 1 Boss Threat Scores (Cursed Wilds)
 
-When introducing a new enemy type:
-1. Score it across all four axes
-2. Compare to existing enemies in the same level
-3. Adjust group size or stats until threat score sits in target range
-4. Playtest specifically at the wave it is introduced
+| Boss | Wave | HP | Speed | **Threat** | Traits |
+|------|------|----|-------|-----------|--------|
+| [[Ent]] | 5 | 480 | 28 | **349** | poisonResist |
+| [[Golem]] | 10 | 900 | 38 | **1026** | armorPlated + poisonResist |
+| [[Medusa]] | 15 | 1400 | 52 | **1456** | — |
+| [[Crimson Stalker]] | 20 | 2400 | 48 | **2304** | — |
+| [[Twin Dragon]] | 25 | 3800 | 30 | **3420** | fireImmune + armor (×0.55) |
+
+---
+
+## Map 2 Boss Threat Scores (Volcanic Inferno)
+
+| Boss | Wave | HP | Speed | **Threat** | Traits |
+|------|------|----|-------|-----------|--------|
+| [[Lav Golem]] | 5 | 950 | 35 | **865** | fireImmune + armor |
+| [[Rat King]] | 10 | 2100 | 52 | **2837** | poisonResist |
+| [[Vampire]] | 15 | 3000 | 50 | **5070** | regenerating + iceImmune |
+| [[Lizardman]] | 20 | 3300 | 45 | **3861** | armorPlated (×0.38) |
+| [[Demon]] | 25 | 4600 | 28 | **4122** | fireImmune + lightningResist + armor |
+
+---
+
+## Map 3 Boss Threat Scores (Frozen Tundra)
+
+| Boss | Wave | HP | Speed | **Threat** | Traits |
+|------|------|----|-------|-----------|--------|
+| [[Ice Golem]] | 5 | 1100 | 32 | **915** | iceImmune + armor |
+| [[Frozen Knight]] | 10 | 1750 | 48 | **2688** | iceImmune + lightningResist + armor |
+| [[Vampire]] | 15 | 3000 | 50 | **5070** | regenerating + iceImmune |
+| [[Lich]] | 20 | 3600 | 34 | **3182** | iceImmune |
+| [[Frostmourne Demon]] | 25 | 6000 | 26 | **5616** | iceImmune + lightningResist + armor |
+
+---
+
+## Kalibrasyon
+
+- Standard enemy hedef aralığı: **80–350**
+- Boss Wave 5 hedef aralığı: **350–1000**
+- Boss Wave 25 hedef aralığı: **3000–6000**
+- Vampire (Threat 5070) Map 2 ve Map 3'te aynı boss — yüksek threat regenerating+immunity kombinasyonundan geliyor; Poison Tower olmadan bu boss savunulamaz.
+
+---
+
+## Yeni Düşman Eklerken
+
+1. Formülle threat puanı hesapla
+2. Aynı map/wave aralığındaki düşmanlarla karşılaştır
+3. Threat çok yüksekse: HP veya speed azalt, ya da trait azalt
+4. Threat çok düşükse: grup sayısını artır veya stats yükselt
+5. İlk göründüğü wave'de playtest yap
+
+*Son güncelleme: v0.19.0. Tam formül ve tower power modeli için bkz. [[internal/balance/Balance Model]].*
