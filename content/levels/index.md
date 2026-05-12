@@ -11,11 +11,11 @@ MonsTD features three campaign worlds, each with distinct terrain, enemy composi
 
 ## Campaign Worlds
 
-| Level | World | Theme | Boss |
+| Level | World | Theme | Final Boss |
 |---|---|---|---|
-| [[Level 1]] | Verdant Forest | Tutorial / Generalist | [[Necromancer King]] |
-| [[Level 2]] | Volcanic Highlands | Armor and fire enemies | [[Frost Titan]] |
-| [[Level 3]] | Frozen Tundra | Speed and frost enemies | [[Storm Dragon]] |
+| [[Level 1]] | Cursed Wilds | Ground enemies, escalating armor | [[Twin Dragon]] |
+| [[Level 2]] | Volcanic Inferno | Flying enemies, fire immunity | [[Demon]] |
+| [[Level 3]] | Frozen Tundra | Frost immunity, heavy armor | [[Frostmourne Demon]] |
 
 ---
 

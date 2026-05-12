@@ -13,18 +13,16 @@ Every tower deals one damage type. Every enemy has zero or more resistances. Und
 
 | Element | Towers | Strong vs | Weak vs | Special |
 |---|---|---|---|---|
-| [[Physical]] | [[Arrow Tower]], [[Cannon Tower]] | Flying enemies | Armored, Fire-resistant | Area (Cannon) |
-| [[Frost]] | [[Frost Tower]] | Fire-resistant | Frost-resistant | Slows |
-| [[Lightning]] | [[Lightning Tower]] | Armored | Frost-resistant | Chain |
-| [[Poison]] | [[Poison Tower]] | Regenerating | Poison-resistant | DoT |
+| [[Physical]] | [[Arrow Tower]], [[Cannon Tower]] | Flying (+30%) | Armored (−35%) | Area (Cannon); Arrow targets flying |
+| [[Frost]] | [[Frost Tower]] | Fire-immune (+50%) | Frost-immune (−75%) | Slows enemies |
+| [[Lightning]] | [[Lightning Tower]] | Armored (+35%) | Lightning-resist (−70%) | Chains to nearby targets |
+| [[Poison]] | [[Poison Tower]] | Regenerating (+50%) | Poison-resist (−75%) | Damage over time |
 
 ---
 
 ## Resistance System
 
 Resistances reduce incoming damage from a specific element. An enemy with `fire_resist` takes reduced damage from [[Fire]] but full damage from everything else.
-
-No resistance exists for **Arcane** damage — it bypasses all elemental resistances. *(Planned for future towers.)*
 
 ---
 

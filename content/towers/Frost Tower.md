@@ -36,7 +36,7 @@ The Frost Tower fires ice projectiles that slow all enemies hit. Its damage outp
 
 ## Weaknesses
 
-- Frost-resistant enemies ([[Skeleton]] variants, [[Frost Titan]]) take reduced damage and reduced slow
+- Frost-immune enemies ([[Ice Golem]], [[Frozen Knight]], [[Lich]], [[Frostmourne Demon]]) take no damage and no slow
 - Moderate base damage — does not kill efficiently without support
 - Low value when placed in isolation away from other towers
 
@@ -63,4 +63,4 @@ The Frost Tower fires ice projectiles that slow all enemies hit. Its damage outp
 
 - Place upstream of damage towers to slow enemies before they reach the kill zone
 - Highly effective on [[Level 2]] against fire-resistant enemies
-- Avoid on [[Level 3]] — Frozen Tundra enemies have increased frost resistance
+- Avoid as a damage source on [[Level 3]] — all Map 3 bosses are fully Frost immune; keep one for slow utility only

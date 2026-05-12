@@ -14,7 +14,16 @@ Strategy guides and reference material for MonsTD players.
 | Guide | Description |
 |---|---|
 | [[Beginner Guide]] | Core mechanics, first build tips, and common mistakes |
-| [[Damage Types Guide]] | Full breakdown of elements, resistances, and matchups |
+| [[Damage Types Guide]] | Full resistance tables for all enemies and bosses |
+
+---
+
+## Quick Links
+
+- **New player?** Start with the [[Beginner Guide]]
+- **Stuck on a boss?** See [[bosses/index|Boss Roster]] for resistances and counters
+- **Building wrong towers?** Read [[Damage Types Guide]] for the matchup system
+- **Endless Mode?** Check [[enemies/index|Enemy Roster]] for trait reference
 
 ---
 

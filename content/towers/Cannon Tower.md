@@ -28,7 +28,7 @@ The Cannon Tower fires explosive shells that deal area-of-effect damage on impac
 ## Strengths
 
 - Highest area damage output per shot
-- Excellent against groups of light enemies ([[Goblin]], [[Wolf]])
+- Excellent against groups of light enemies ([[Goblin]], [[Troll]])
 - Splash damage hits targets behind the main target
 - High burst potential on slow waves
 
@@ -38,7 +38,7 @@ The Cannon Tower fires explosive shells that deal area-of-effect damage on impac
 
 - Low fire rate means it struggles against single fast targets
 - Splash has no effect vs spread-out or flying enemies
-- [[Physical]] damage is reduced by armored enemies ([[Golem]])
+- [[Physical]] damage is reduced by armored enemies ([[Troll]], [[Knight]], [[Golem]] boss)
 - Shorter range than [[Arrow Tower]]
 
 ---

@@ -12,15 +12,17 @@ date: 2026-05
 
 ## Overview
 
-First public release of MonsTD. Three campaign levels, five tower types, five enemy types, three bosses, and Game Center leaderboard integration.
+First public release of MonsTD. Three campaign levels, five tower types, six standard enemy types, fifteen bosses (five per map), and Game Center leaderboard integration.
 
 ---
 
 ## Content
 
 - **Towers:** [[Arrow Tower]], [[Cannon Tower]], [[Frost Tower]], [[Lightning Tower]], [[Poison Tower]]
-- **Enemies:** [[Goblin]], [[Wolf]], [[Skeleton]], [[Golem]], [[Flying Bat]]
-- **Bosses:** [[Necromancer King]], [[Frost Titan]], [[Storm Dragon]]
+- **Enemies:** [[Goblin]], [[Troll]], [[Knight]], [[Imp]], [[Gnoll]], [[Plant|Frost Plant]]
+- **Map 1 Bosses:** [[Ent]], [[Golem]], [[Medusa]], [[Crimson Stalker]], [[Twin Dragon]]
+- **Map 2 Bosses:** [[Lav Golem]], [[Rat King]], [[Vampire]], [[Lizardman]], [[Demon]]
+- **Map 3 Bosses:** [[Ice Golem]], [[Frozen Knight]], [[Vampire]], [[Lich]], [[Frostmourne Demon]]
 - **Levels:** [[Level 1]], [[Level 2]], [[Level 3]] — each with Easy / Normal / Hard difficulty
 - **Endless Mode:** Available on all three maps after campaign completion
 - **Game Center:** 9 leaderboards (3 maps × 3 difficulties) + achievement system
@@ -48,7 +50,7 @@ First public release of MonsTD. Three campaign levels, five tower types, five en
 
 *See [[internal/balance/Balance Philosophy]] for design intent behind these values.*
 
-- Arrow Tower base damage tuned to clear [[Wolf]] in 3 hits on Normal
+- Arrow Tower base damage tuned to clear [[Goblin]] in 3 hits on Normal
 - Cannon Tower splash radius set conservatively — will scale if swarm waves underperform
 - [[Lightning Tower]] cost is highest in the roster; early placement should not be required
 - [[Frost Tower]] slow duration balanced so a single Frost Tower cannot permanently immobilize fast enemies

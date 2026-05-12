@@ -29,7 +29,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 
 - Longest base range of all towers
 - Consistent, reliable damage output
-- Effective against [[Flying Bat|flying enemies]] that other towers cannot reach
+- Only tower (alongside [[Lightning Tower]]) that can target [[Imp|flying enemies]]
 - No elemental resistance penalty on most enemy types
 
 ---
@@ -37,7 +37,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 ## Weaknesses
 
 - No area damage — weak against large swarms
-- [[Physical]] damage is reduced by armored enemies ([[Golem]])
+- [[Physical]] damage is reduced by armored enemies ([[Troll]], [[Knight]], [[Golem]] boss)
 - Below-average damage per shot compared to specialized towers
 
 ---
@@ -54,7 +54,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 
 ## Countered By
 
-- Armored enemies (e.g., [[Golem]]) — damage reduced
+- Armored enemies ([[Troll]], [[Knight]], [[Golem]] boss) — Physical damage reduced
 - Fast swarms — Arrow's single-target fire cannot keep up
 
 ---
