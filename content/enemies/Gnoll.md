@@ -5,6 +5,8 @@ tags: [enemies, ground]
 
 # Gnoll
 
+![](/images/gnoll.png)
+
 ## Overview
 
 Gnolls are armored wolf-men that move nearly as fast as [[Goblin|Goblins]] while being significantly more durable. Their regeneration ability makes them dangerous when towers are spread thin.

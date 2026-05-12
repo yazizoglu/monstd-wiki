@@ -5,6 +5,8 @@ tags: [bosses, map1, wave10]
 
 # Golem
 
+![](/images/golem.png)
+
 The Golem is the second boss of the [[Level 1|Cursed Wilds]] — a massive stone construct with the highest armor value of any mid-game boss. It is immune to both Poison and resistant to Physical, making tower diversity critical.
 
 | Stat | Value |

@@ -5,6 +5,8 @@ tags: [enemies, flying]
 
 # Imp
 
+![](/images/imp.png)
+
 ## Overview
 
 Imps are fast flying demons exclusive to the Volcanic Inferno. They bypass ground-level defenses and can only be targeted by [[Arrow Tower|Arrow]] and [[Lightning Tower|Lightning]] towers.

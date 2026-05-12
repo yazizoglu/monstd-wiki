@@ -5,6 +5,8 @@ tags: [bosses, map2, wave20]
 
 # Lizardman
 
+![](/images/lizardman.png)
+
 The Lizardman is the penultimate boss of the [[Level 2|Volcanic Inferno]] — a large reptilian warrior at 3300 HP with substantial armor. It has no elemental immunities, making tower choice flexible, but its HP demands a maxed-out economy by wave 20.
 
 | Stat | Value |

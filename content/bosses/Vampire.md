@@ -5,6 +5,8 @@ tags: [bosses, map2, map3, wave15]
 
 # Vampire
 
+![](/images/vampire.png)
+
 The Vampire appears as the wave 15 boss on both the [[Level 2|Volcanic Inferno]] and [[Level 3|Frozen Tundra]]. A blood-magic predator with powerful regeneration and immunity to Frost, it is the first regenerating boss in the game and demands Poison coverage to counter.
 
 | Stat | Value |

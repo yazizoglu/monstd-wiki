@@ -5,6 +5,8 @@ tags: [enemies, ground]
 
 # Troll
 
+![](/images/troll.png)
+
 ## Overview
 
 Trolls are heavy ground units that soak up damage and push steadily through defenses. Slower than [[Goblin|Goblins]], they are significantly harder to kill and begin appearing from wave 4.

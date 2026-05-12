@@ -5,6 +5,8 @@ tags: [levels, level-3]
 
 # Level 3 — Frozen Tundra
 
+![](/images/map3_thumb.png)
+
 ## Overview
 
 The Frozen Tundra is the most challenging campaign level. Every boss is immune to Frost and the final boss is immune to both Frost and Lightning — Frost Tower players must completely retool their build strategy.

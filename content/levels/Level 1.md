@@ -5,6 +5,8 @@ tags: [levels, level-1]
 
 # Level 1 — Cursed Wilds
 
+![](/images/map1_thumb.png)
+
 ## Overview
 
 The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower placement loop, introduces the wave system, and presents manageable enemy compositions that reward basic build diversity.

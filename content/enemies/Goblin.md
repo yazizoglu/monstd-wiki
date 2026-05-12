@@ -5,6 +5,8 @@ tags: [enemies, ground]
 
 # Goblin
 
+![](/images/goblin.png)
+
 ## Overview
 
 Goblins are the most common enemy in MonsTD. They are fast, low-health, and appear in large numbers. Individually weak, they are dangerous in swarms — especially early when towers are sparse.

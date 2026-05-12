@@ -5,6 +5,8 @@ tags: [bosses, map1, wave20]
 
 # Crimson Stalker
 
+![](/images/crimson_stalker.png)
+
 The Crimson Stalker is the penultimate boss of the [[Level 1|Cursed Wilds]] — a massive arachnid predator with 2400 HP. It moves at medium speed and has no elemental immunities, but its raw HP demands a fully upgraded defense.
 
 | Stat | Value |

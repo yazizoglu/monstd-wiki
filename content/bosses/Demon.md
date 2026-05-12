@@ -5,6 +5,8 @@ tags: [bosses, map2, wave25, final-boss]
 
 # Demon
 
+![](/images/demon.png)
+
 The Demon is the final boss of the [[Level 2|Volcanic Inferno]] — a massive fire entity with the highest HP of any Map 2 enemy at 4600. It is immune to both Fire and Lightning, leaving only Frost, Arrow, and Poison as effective damage sources.
 
 | Stat | Value |

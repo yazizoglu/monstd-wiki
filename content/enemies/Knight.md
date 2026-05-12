@@ -5,6 +5,8 @@ tags: [enemies, ground]
 
 # Knight
 
+![](/images/knight.png)
+
 ## Overview
 
 Knights are armored ground soldiers with more HP and higher armor than [[Troll|Trolls]]. They appear in later waves and represent the primary high-durability threat on Cursed Wilds and Frozen Tundra.

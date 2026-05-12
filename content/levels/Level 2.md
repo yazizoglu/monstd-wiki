@@ -5,6 +5,8 @@ tags: [levels, level-2]
 
 # Level 2 — Volcanic Inferno
 
+![](/images/map2_thumb.png)
+
 ## Overview
 
 The Volcanic Inferno introduces flying threats and fire-immune bosses. Players must maintain Arrow or Lightning Tower coverage at all times or Imps will fly directly to the exit.

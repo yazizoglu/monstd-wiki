@@ -5,6 +5,8 @@ tags: [bosses, map1, wave5]
 
 # Ent
 
+![](/images/ent.png)
+
 The Ent is the first boss of the [[Level 1|Cursed Wilds]] — a massive ancient tree animated by dark magic. It is the slowest enemy encountered so far but brings HP far beyond any standard unit.
 
 | Stat | Value |

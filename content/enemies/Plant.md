@@ -5,6 +5,8 @@ tags: [enemies, ground]
 
 # Frost Plant
 
+![](/images/plant.png)
+
 ## Overview
 
 Frost Plants are slow, tanky creatures that appear only in the early waves of Frozen Tundra campaign levels. Their heavy shell makes Poison damage nearly useless against them.
