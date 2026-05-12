@@ -13,7 +13,7 @@ Fire damage deals moderate burst with area potential. It is strong against frost
 
 ## Towers
 
-- [[Cannon Tower]] — area splash with fire-type damage
+- [[Fire Tower]] — area splash with fire-type damage
 
 ---
 
@@ -33,4 +33,4 @@ Fire damage deals moderate burst with area potential. It is strong against frost
 
 - Fire should always have a meaningful target in every level
 - Fire + Frost is the foundational damage diversity pair — one is always strong when the other is weak
-- See [[Cannon Tower]] for fire-type area usage
+- See [[Fire Tower]] for fire-type area usage

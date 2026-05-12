@@ -47,7 +47,7 @@ Goblins test the player's area-damage coverage. A defense built entirely from si
 
 | Tower | Reason |
 |---|---|
-| [[Cannon Tower]] | Splash damage clears entire goblin groups per shot |
+| [[Fire Tower]] | Splash damage clears entire goblin groups per shot |
 | [[Poison Tower]] | DoT handles staggered groups efficiently |
 | [[Arrow Tower]] | Reliable for picking off stragglers |
 

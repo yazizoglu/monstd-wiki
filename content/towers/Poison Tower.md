@@ -51,7 +51,7 @@ The Poison Tower launches toxin projectiles that apply a damage-over-time (DoT) 
 |---|---|
 | [[Frost Tower]] | Slow extends DoT duration on each enemy |
 | [[Arrow Tower]] | Arrow provides burst finishing; Poison softens the target |
-| [[Cannon Tower]] | Poison weakens grouped enemies; Cannon's splash finishes them |
+| [[Fire Tower]] | Poison weakens grouped enemies; Fire Tower's splash finishes them |
 
 ---
 

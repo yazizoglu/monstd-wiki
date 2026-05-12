@@ -26,7 +26,7 @@ Gold income, tower costs, and upgrade pricing principles.
 | Tower | Base Cost | Target Upgrade Cost |
 |---|---|---|
 | [[Arrow Tower]] | 60g | ~40–80g per tier |
-| [[Cannon Tower]] | 90g | ~60–120g per tier |
+| [[Fire Tower]] | 90g | ~60–120g per tier |
 | [[Frost Tower]] | 80g | ~50–100g per tier |
 | [[Lightning Tower]] | 120g | ~80–150g per tier |
 | [[Poison Tower]] | 100g | ~70–130g per tier |

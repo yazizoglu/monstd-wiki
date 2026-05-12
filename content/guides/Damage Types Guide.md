@@ -22,7 +22,7 @@ Every tower deals one damage type. Every enemy may have one or more resistances.
 | Your Tower | Element | Bonus vs | Penalty vs |
 |---|---|---|---|
 | [[Arrow Tower]] | [[Physical]] | Flying (+30%) | Armored (−35%) |
-| [[Cannon Tower]] | [[Physical]] | Flying (+30%) | Armored (−35%) |
+| [[Fire Tower]] | [[Fire]] | Ice-resistant (+50%) | Fire-immune (−75%) |
 | [[Frost Tower]] | [[Frost]] | Fire-immune (+50%) | Frost-immune (−75%) |
 | [[Lightning Tower]] | [[Lightning]] | Armored (+35%) | Lightning-resist (−70%) |
 | [[Poison Tower]] | [[Poison]] | Regenerating (+50%) | Poison-resist (−75%) |
@@ -57,7 +57,7 @@ Every tower deals one damage type. Every enemy may have one or more resistances.
 | Boss | Resistances | Counters |
 |---|---|---|
 | [[Lav Golem]] | Fire (−75%), Armored | Frost, Lightning |
-| [[Rat King]] | Poison (−75%) | Lightning, Arrow, Cannon |
+| [[Rat King]] | Poison (−75%) | Lightning, Arrow, Fire Tower |
 | [[Vampire]] | Frost (−75%), Regenerating | Poison (mandatory) |
 | [[Lizardman]] | Armored (−38%) | Lightning, Poison |
 | [[Demon]] | Fire (−75%), Lightning (−70%), Armored (−50%) | Frost, Poison, Arrow |
@@ -102,6 +102,6 @@ Some enemies have full immunity (−75% or more), not just resistance:
 
 | Level | Recommended Build |
 |---|---|
-| [[Level 1]] — Cursed Wilds | Arrow + Cannon + Lightning + Frost |
+| [[Level 1]] — Cursed Wilds | Arrow + Fire Tower + Lightning + Frost |
 | [[Level 2]] — Volcanic Inferno | Arrow + Lightning + Frost + Poison |
 | [[Level 3]] — Frozen Tundra | Arrow + Fire upgrades + Poison (avoid Frost damage) |

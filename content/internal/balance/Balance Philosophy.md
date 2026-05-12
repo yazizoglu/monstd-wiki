@@ -61,4 +61,4 @@ Every boss should feel dangerous. A boss that reaches the exit should always fee
 
 ## 6. Build Diversity Over Optimal Builds
 
-The meta should shift between levels. A player who "solved" Level 1 with Arrow + Cannon + Frost should need to fundamentally rethink for Level 3. This is achieved through resistance layering, not arbitrary enemy health scaling.
+The meta should shift between levels. A player who "solved" Level 1 with Arrow + Fire Tower + Frost should need to fundamentally rethink for Level 3. This is achieved through resistance layering, not arbitrary enemy health scaling.

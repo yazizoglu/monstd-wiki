@@ -25,7 +25,7 @@ Welcome to MonsTD. This guide covers core mechanics and the most common early mi
 Start every run with:
 
 1. **[[Arrow Tower]]** — place 2–3 at different coverage angles immediately
-2. **[[Cannon Tower]]** — add 1–2 at the densest chokepoint by wave 3
+2. **[[Fire Tower]]** — add 1–2 at the densest chokepoint by wave 3
 3. **[[Frost Tower]]** — add 1 upstream of your main damage cluster by wave 5
 
 This three-tower mix handles the first 10 waves comfortably on Normal difficulty.
@@ -44,7 +44,7 @@ This three-tower mix handles the first 10 waves comfortably on Normal difficulty
 
 | Mistake | Better Approach |
 |---|---|
-| Only using Arrow Tower | Add Cannon for swarms |
+| Only using Arrow Tower | Add Fire Tower for swarms |
 | Ignoring Frost Tower | 1 Frost Tower upstream doubles your damage output |
 | Selling towers too early | Only sell to immediately replace with something better |
 | Skipping wave bonuses | Let the wave timer run out only if you need placement time |

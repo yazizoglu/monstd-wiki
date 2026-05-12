@@ -29,11 +29,11 @@ The Twin Dragon is the final boss of the [[Level 1|Cursed Wilds]] — a two-head
 
 ## Strategy
 
-Twin Dragon demands Frost and Lightning. Physical towers (Cannon) are badly hampered by 55% armor. Poison has no resistance modifier — it is the secondary damage source. The key counter is Frost Tower: the dragon is slow and ice-weak, so stacking Frost upgrades extending the slow duration significantly increases total DPS time.
+Twin Dragon demands Frost and Lightning. Physical towers (Arrow) are badly hampered by 55% armor. Poison has no resistance modifier — it is the secondary damage source. The key counter is Frost Tower: the dragon is slow and ice-weak, so stacking Frost upgrades extending the slow duration significantly increases total DPS time.
 
 **Counters:** [[Frost Tower]] (ice bonus + slow), [[Lightning Tower]] (armor bonus), [[Poison Tower]] (no resistance)
 
-**Avoid:** Fire-based upgrades — immune. [[Cannon Tower]] — 55% armor makes splash damage minimal.
+**Avoid:** Fire-based upgrades — immune. [[Fire Tower]] — 55% armor makes splash damage minimal.
 
 ---
 

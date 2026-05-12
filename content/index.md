@@ -24,7 +24,7 @@ tags: [home]
 ### Towers
 Five tower types — each with a distinct damage type, role, and upgrade path.
 
-[[Arrow Tower]] · [[Cannon Tower]] · [[Frost Tower]] · [[Lightning Tower]] · [[Poison Tower]]
+[[Arrow Tower]] · [[Fire Tower]] · [[Frost Tower]] · [[Lightning Tower]] · [[Poison Tower]]
 
 → [[towers/index|All Towers]]
 
@@ -79,7 +79,7 @@ Understanding resistances is the core skill that separates good players from gre
 
 | Damage Type | Tower | Bonus vs | Reduced vs |
 |---|---|---|---|
-| Physical | [[Arrow Tower]], [[Cannon Tower]] | Flying (+30%) | Armored (−35%) |
+| Physical | [[Arrow Tower]], [[Fire Tower]] | Flying (+30%) | Armored (−35%) |
 | Frost | [[Frost Tower]] | Fire-immune (+50%) | Frost-immune (−75%) |
 | Lightning | [[Lightning Tower]] | Armored (+35%) | Lightning-resist (−70%) |
 | Poison | [[Poison Tower]] | Regenerating (+50%) | Poison-resist (−75%) |

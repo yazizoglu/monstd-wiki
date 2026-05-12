@@ -51,7 +51,7 @@ The Lightning Tower fires bolts that chain between nearby enemies, hitting multi
 |---|---|
 | [[Frost Tower]] | Slowed enemies cluster → more chain jumps per bolt |
 | [[Arrow Tower]] | Arrow handles flyers and long-range; Lightning handles armored clusters |
-| [[Cannon Tower]] | Cannon clears light enemies; Lightning cleans up armored stragglers |
+| [[Fire Tower]] | Fire Tower clears light enemy clusters; Lightning cleans up armored stragglers |
 
 ---
 

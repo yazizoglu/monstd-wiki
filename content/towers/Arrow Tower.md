@@ -48,7 +48,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 
 | Tower | Reason |
 |---|---|
-| [[Cannon Tower]] | Cannon handles swarms; Arrow handles priority targets and flyers |
+| [[Fire Tower]] | Fire Tower handles swarms; Arrow handles priority targets and flyers |
 | [[Frost Tower]] | Slowed enemies spend more time in Arrow's range |
 | [[Lightning Tower]] | Lightning handles armored; Arrow handles the rest |
 

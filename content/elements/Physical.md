@@ -14,7 +14,6 @@ Physical damage is the baseline damage type — no special effect, no element ma
 ## Towers
 
 - [[Arrow Tower]] — single target, long range, reliable vs flyers
-- [[Cannon Tower]] — area splash, strong vs swarms
 
 ---
 
@@ -22,15 +21,13 @@ Physical damage is the baseline damage type — no special effect, no element ma
 
 | vs Enemy | Effectiveness |
 |---|---|
-| Armored (Golem) | Reduced |
-| Fire-resistant | Reduced |
-| Flying | **Bonus (Arrow Tower)** |
+| Armored (Golem) | Reduced (−35%) |
+| Flying | **Bonus (+30%) — Arrow Tower** |
 | No resistance | Standard |
 
 ---
 
 ## Design Notes
 
-- Physical is intentionally weaker in the mid/late game against armored enemy compositions
-- The two-tower split (Arrow = single/range, Cannon = area) gives physical a strategic width that single-element towers lack
-- Physical is the "beginner safe" element — easy to use, scales poorly against resistant comps, teaches why elemental diversity matters
+- Physical is intentionally weaker against armored enemy compositions — use [[Lightning Tower]] to cover that weakness
+- The "beginner safe" element — reliable baseline damage, teaches why elemental diversity matters

@@ -28,9 +28,9 @@ The Rat King is the second boss of the [[Level 2|Volcanic Inferno]] — a massiv
 
 ## Strategy
 
-The Rat King moves at medium speed and has relatively low armor — the main challenge is its Poison immunity. After clearing the Lav Golem with Frost, switching back to Lightning + Cannon for the Rat King is the natural transition. Arrow Tower high fire rate is valuable at medium speed.
+The Rat King moves at medium speed and has relatively low armor — the main challenge is its Poison immunity. After clearing the Lav Golem with Frost, switching back to Lightning + Fire Tower for the Rat King is the natural transition. Arrow Tower high fire rate is valuable at medium speed.
 
-**Counters:** [[Lightning Tower]], [[Arrow Tower]], [[Cannon Tower]], [[Frost Tower]] (slow + damage)
+**Counters:** [[Lightning Tower]], [[Arrow Tower]], [[Fire Tower]], [[Frost Tower]] (slow + damage)
 
 **Avoid:** [[Poison Tower]] — immune.
 

@@ -30,7 +30,7 @@ The Frostmourne Demon is the final boss of the [[Level 3|Frozen Tundra]] and the
 
 ## Strategy
 
-The Frostmourne Demon is the ultimate DPS check. Frost is useless (immune), Lightning is useless (immune), Cannon is near-useless (52% armor). Only two real damage sources remain: fire-upgraded towers and Poison Tower. Arrow Tower contributes through volume, not bonus damage.
+The Frostmourne Demon is the ultimate DPS check. Frost is useless (immune), Lightning is useless (immune), Fire Tower is near-useless (52% armor). Only two real damage sources remain: fire upgrade paths and Poison Tower. Arrow Tower contributes through volume, not bonus damage.
 
 Players who reach wave 25 without fire upgrade paths or Poison coverage will find this boss essentially unkillable. Building toward fire and Poison from wave 15 onward is the correct progression plan.
 
@@ -38,7 +38,7 @@ Its glacial speed (26) is the one saving grace — time on the path is maximum. 
 
 **Counters:** Fire-upgraded towers (mandatory), [[Poison Tower]] (mandatory), [[Arrow Tower]] (volume support)
 
-**Avoid:** [[Frost Tower]] — immune. [[Lightning Tower]] — immune. [[Cannon Tower]] — 52% armor makes splash near-worthless.
+**Avoid:** [[Frost Tower]] — immune. [[Lightning Tower]] — immune. [[Fire Tower]] — 52% armor makes splash near-worthless.
 
 ---
 

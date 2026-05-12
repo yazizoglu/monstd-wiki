@@ -29,11 +29,11 @@ The Golem is the second boss of the [[Level 1|Cursed Wilds]] — a massive stone
 
 ## Strategy
 
-The Golem is the hardest boss of early Map 1. With 900 HP, 40% armor, and Poison immunity, two of the five towers (Cannon and Poison) are significantly hampered. Lightning Tower is the mandatory counter. Frost Tower stacking helps extend the engagement window on slow builds.
+The Golem is the hardest boss of early Map 1. With 900 HP, 40% armor, and Poison immunity, two of the five towers (Fire Tower and Poison) are significantly hampered. Lightning Tower is the mandatory counter. Frost Tower stacking helps extend the engagement window on slow builds.
 
 **Counters:** [[Lightning Tower]] (primary), [[Arrow Tower]] (volume), [[Frost Tower]] (extend window)
 
-**Avoid:** [[Poison Tower]] — immune. [[Cannon Tower]] — armor heavily reduces splash damage.
+**Avoid:** [[Poison Tower]] — immune. [[Fire Tower]] — armor heavily reduces splash damage.
 
 ---
 

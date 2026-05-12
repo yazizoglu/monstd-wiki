@@ -28,7 +28,7 @@ The Lizardman is the penultimate boss of the [[Level 2|Volcanic Inferno]] — a 
 
 ## Strategy
 
-The Lizardman is a raw DPS gate at wave 20. Heavy armor makes Cannon Tower less efficient. Lightning Tower is preferred for the armor bonus. Poison DoT and Frost slow extend the damage window on a slow-moving target.
+The Lizardman is a raw DPS gate at wave 20. Heavy armor makes Fire Tower less efficient. Lightning Tower is preferred for the armor bonus. Poison DoT and Frost slow extend the damage window on a slow-moving target.
 
 **Counters:** [[Lightning Tower]] (armor bonus), [[Poison Tower]] (DoT at scale), [[Frost Tower]] (slow)
 

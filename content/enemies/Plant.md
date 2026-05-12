@@ -53,7 +53,7 @@ Frost Plants appear exclusively in waves 1–7 of Frozen Tundra campaign levels 
 
 | Tower | Reason |
 |---|---|
-| [[Cannon Tower]] | Physical splash bypasses the need for single-target focus |
+| [[Fire Tower]] | Physical splash bypasses the need for single-target focus |
 | [[Lightning Tower]] | Bonus damage against armor; no Poison dependency |
 | [[Arrow Tower]] | Reliable against any non-flying enemy |
 

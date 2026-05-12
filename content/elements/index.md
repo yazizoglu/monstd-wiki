@@ -13,7 +13,7 @@ Every tower deals one damage type. Every enemy has zero or more resistances. Und
 
 | Element | Towers | Strong vs | Weak vs | Special |
 |---|---|---|---|---|
-| [[Physical]] | [[Arrow Tower]], [[Cannon Tower]] | Flying (+30%) | Armored (−35%) | Area (Cannon); Arrow targets flying |
+| [[Physical]] | [[Arrow Tower]], [[Fire Tower]] | Flying (+30%) | Armored (−35%) | Area (Fire Tower); Arrow targets flying |
 | [[Frost]] | [[Frost Tower]] | Fire-immune (+50%) | Frost-immune (−75%) | Slows enemies |
 | [[Lightning]] | [[Lightning Tower]] | Armored (+35%) | Lightning-resist (−70%) | Chains to nearby targets |
 | [[Poison]] | [[Poison Tower]] | Regenerating (+50%) | Poison-resist (−75%) | Damage over time |

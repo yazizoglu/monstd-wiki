@@ -29,7 +29,7 @@ Imps are fast flying demons exclusive to the Volcanic Inferno. They bypass groun
 
 ## Purpose
 
-Imps force players to maintain Arrow or Lightning coverage throughout the Volcanic Inferno. A defense built entirely from Cannon and Frost towers will leak Imps directly to the exit.
+Imps force players to maintain Arrow or Lightning coverage throughout the Volcanic Inferno. A defense built entirely from Fire Tower and Frost towers will leak Imps directly to the exit.
 
 ---
 

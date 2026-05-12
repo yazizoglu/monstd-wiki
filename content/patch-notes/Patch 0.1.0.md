@@ -18,7 +18,7 @@ First public release of MonsTD. Three campaign levels, five tower types, six sta
 
 ## Content
 
-- **Towers:** [[Arrow Tower]], [[Cannon Tower]], [[Frost Tower]], [[Lightning Tower]], [[Poison Tower]]
+- **Towers:** [[Arrow Tower]], [[Fire Tower]], [[Frost Tower]], [[Lightning Tower]], [[Poison Tower]]
 - **Enemies:** [[Goblin]], [[Troll]], [[Knight]], [[Imp]], [[Gnoll]], [[Plant|Frost Plant]]
 - **Map 1 Bosses:** [[Ent]], [[Golem]], [[Medusa]], [[Crimson Stalker]], [[Twin Dragon]]
 - **Map 2 Bosses:** [[Lav Golem]], [[Rat King]], [[Vampire]], [[Lizardman]], [[Demon]]
@@ -51,6 +51,6 @@ First public release of MonsTD. Three campaign levels, five tower types, six sta
 *See [[internal/balance/Balance Philosophy]] for design intent behind these values.*
 
 - Arrow Tower base damage tuned to clear [[Goblin]] in 3 hits on Normal
-- Cannon Tower splash radius set conservatively — will scale if swarm waves underperform
+- Fire Tower splash radius set conservatively — will scale if swarm waves underperform
 - [[Lightning Tower]] cost is highest in the roster; early placement should not be required
 - [[Frost Tower]] slow duration balanced so a single Frost Tower cannot permanently immobilize fast enemies

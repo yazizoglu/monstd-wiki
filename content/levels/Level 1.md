@@ -36,7 +36,7 @@ The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower 
 | Tower | Priority | Reason |
 |---|---|---|
 | [[Arrow Tower]] | Essential | Long-range generalist, early coverage |
-| [[Cannon Tower]] | High | Goblin swarm waves require area damage |
+| [[Fire Tower]] | High | Goblin swarm waves require area damage |
 | [[Lightning Tower]] | High | Armor-pierce for Troll, Knight, Golem boss |
 | [[Frost Tower]] | Medium | Support slow; valuable before boss waves |
 | [[Poison Tower]] | Low | Ineffective on most bosses here (Ent, Golem immune) |

@@ -38,7 +38,7 @@ The Volcanic Inferno introduces flying threats and fire-immune bosses. Players m
 | [[Lightning Tower]] | High | Chains to flying Imps; anti-armor |
 | [[Frost Tower]] | High | Bonus damage vs fire-immune bosses; slow |
 | [[Poison Tower]] | High | Required for [[Vampire]] boss; strong DoT |
-| [[Cannon Tower]] | Medium | Splash for ground groups |
+| [[Fire Tower]] | Medium | Splash for ground groups |
 
 ---
 
@@ -65,7 +65,7 @@ The Volcanic Inferno introduces flying threats and fire-immune bosses. Players m
 | Wave | Boss | HP | Counter |
 |---|---|---|---|
 | 5 | [[Lav Golem]] | 950 | Frost (ice bonus), Lightning |
-| 10 | [[Rat King]] | 2100 | Lightning, Arrow, Cannon |
+| 10 | [[Rat King]] | 2100 | Lightning, Arrow, Fire Tower |
 | 15 | [[Vampire]] | 3000 | Poison (mandatory) |
 | 20 | [[Lizardman]] | 3300 | Lightning, Poison |
 | 25 | [[Demon]] | 4600 | Frost, Poison, Arrow |

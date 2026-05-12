@@ -48,7 +48,7 @@ The Frost Tower fires ice projectiles that slow all enemies hit. Its damage outp
 
 | Tower | Reason |
 |---|---|
-| [[Cannon Tower]] | Slowed enemies cluster; Cannon splash hits all of them |
+| [[Fire Tower]] | Slowed enemies cluster; Fire Tower splash hits all of them |
 | [[Arrow Tower]] | More time in range means more Arrow shots per enemy |
 | [[Poison Tower]] | DoT deals more total damage when enemies move slowly |
 

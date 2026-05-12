@@ -55,7 +55,7 @@ Trolls shift the threat from speed to durability. Early towers tuned for goblin 
 |---|---|
 | [[Lightning Tower]] | Bonus damage against armor-plated enemies |
 | [[Poison Tower]] | DoT damage ignores armor; effective on tanky enemies |
-| [[Cannon Tower]] | Splash damage helps when Trolls appear alongside Goblins |
+| [[Fire Tower]] | Splash damage helps when Trolls appear alongside Goblins |
 
 ---
 

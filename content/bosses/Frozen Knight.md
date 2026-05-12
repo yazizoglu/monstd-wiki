@@ -36,7 +36,7 @@ Arrow Tower is the fallback — it deals no bonus, but has no penalty either and
 
 **Counters:** Fire-upgraded towers (ice weakness), [[Poison Tower]], [[Arrow Tower]] (volume)
 
-**Avoid:** [[Frost Tower]] — immune. [[Lightning Tower]] — immune. [[Cannon Tower]] — 50% armor.
+**Avoid:** [[Frost Tower]] — immune. [[Lightning Tower]] — immune. [[Fire Tower]] — 50% armor.
 
 ---
 
