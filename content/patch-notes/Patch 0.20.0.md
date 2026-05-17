@@ -4,7 +4,7 @@ tags: [patch-notes]
 date: 2026-05
 ---
 
-# Patch 0.20.0 — Enemy Rework, Strong vs Feedback & Map Fixes
+# Patch 0.20.0 — Enemy Rework, Elemental Balance & Map Fixes
 
 *May 2026*
 
@@ -14,7 +14,8 @@ date: 2026-05
 
 - [[Imp]] reworked with a flying hover animation — now visually distinct from walking enemies
 - [[Gnoll]] becomes the primary ground threat in Volcanic Inferno (vi2–vi4); Goblin removed from those maps
-- Strong vs interactions now display the actual damage number instead of the generic "WEAK!" label
+- **Elemental counter bonuses buffed** — strong-vs multipliers increased across all elements; matchups are now decisive
+- Strong vs interactions display the actual damage number in element color
 - Island world map ship navigation bugs fixed
 
 ---
@@ -66,4 +67,16 @@ RESIST text (small, gray) is unchanged.
 
 ## Balance
 
-No stat changes in this patch.
+### Elemental Counter Multipliers — Buffed
+
+Strong-vs multipliers increased to make elemental matchups decisive. The right counter now deals roughly 1.65–2× the damage of a neutral tower against its target type.
+
+| Element | Strong vs | Old | New |
+|---|---|---|---|
+| Physical | Flying | +30% | **+65%** |
+| Fire | Frost-resistant | +50% | **+85%** |
+| Frost | Fire-resistant | +50% | **+85%** |
+| Lightning | Armored | +35% | **+75%** |
+| Poison | Regenerating | +50% | **+100%** |
+
+Resist multipliers unchanged. The asymmetry between penalty (−70–75%) and reward is intentional — it's always more costly to use the wrong tower than it is beneficial to use the right one, but the right tower now provides a meaningful advantage rather than a minor nudge.

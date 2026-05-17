@@ -7,30 +7,30 @@ tags: [elements, lightning]
 
 ## Overview
 
-Lightning damage pierces armor and chains between nearby enemies. It is the primary counter to armored enemies and excels in high-density situations where the chain mechanic can jump between multiple targets.
+Lightning damage pierces armor with a +75% bonus against armored enemies and chains between nearby targets. It is the definitive anti-armor element and excels in high-density situations where the chain mechanic jumps between multiple armored targets simultaneously.
 
 ---
 
 ## Towers
 
-- [[Lightning Tower]] — single primary hit, chains to adjacent enemies
+- [[Lightning Tower]] — single primary hit, chains to adjacent enemies within range
 
 ---
 
 ## Matchup Table
 
-| vs Enemy | Effectiveness |
-|---|---|
-| Armored (Golem) | **Full damage (armor bypassed)** |
-| Frost-resistant | Reduced |
-| Fire-resistant | Standard |
-| Poison-resistant | Standard |
-| No resistance | Standard + chain |
+| vs Enemy | Multiplier | Notes |
+|---|---|---|
+| Armored | **×1.75 (+75%)** | Primary counter — decisive advantage |
+| Frost-resistant | ×0.60 (−40%) | Soft counter — reduced but not useless |
+| Lightning-resistant | ×0.30 (−70%) | Hard counter — switch element |
+| No resistance | ×1.0 + chain | Chain adds value in groups |
 
 ---
 
 ## Design Notes
 
-- Lightning's armor-pierce should be the unique mechanical identity of the element
-- Frost resistance as Lightning's soft counter creates a tension: frost enemies require non-lightning solutions
-- Chain range and jump count are critical balance levers — chain too far and the tower trivialises dense waves
+- The +75% armor bonus is now decisive — Lightning clears armored waves roughly twice as fast as neutral towers
+- Chain mechanic amplifies this further: one Lightning Tower can hit multiple armored targets per shot
+- Frost resistance is Lightning's soft counter — a reason to diversify but not a hard block
+- Lightning-resistant enemies (rare) are a hard counter — the only case where Lightning should be replaced

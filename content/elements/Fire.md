@@ -7,7 +7,7 @@ tags: [elements, fire]
 
 ## Overview
 
-Fire damage deals moderate burst with area potential. It is strong against frost-resistant enemies and weak against fire-resistant ones. Fire is the primary counter to cold-themed enemy compositions.
+Fire damage deals area burst. It is a strong counter to frost-resistant enemies (+85% damage), and completely ineffective against fire-resistant ones (−75%). Fire is the primary counter to cold-themed enemy compositions and excels at clearing clustered groups.
 
 ---
 
@@ -19,18 +19,16 @@ Fire damage deals moderate burst with area potential. It is strong against frost
 
 ## Matchup Table
 
-| vs Enemy | Effectiveness |
-|---|---|
-| Fire-resistant | Reduced |
-| Frost-resistant | **Bonus** |
-| Armored | Standard |
-| Poison-resistant | Standard |
-| No resistance | Standard |
+| vs Enemy | Multiplier | Notes |
+|---|---|---|
+| Fire-resistant | ×0.25 (−75%) | Nearly useless — switch element |
+| Frost-resistant | **×1.85 (+85%)** | Devastating — primary counter |
+| No resistance | ×1.0 | Standard |
 
 ---
 
 ## Design Notes
 
-- Fire should always have a meaningful target in every level
 - Fire + Frost is the foundational damage diversity pair — one is always strong when the other is weak
-- See [[Fire Tower]] for fire-type area usage
+- The +85% bonus makes Fire the definitive answer to frost-immune enemies — players should feel rewarded for correct placement
+- Fire Tower's area splash amplifies the bonus in clustered frost-immune waves

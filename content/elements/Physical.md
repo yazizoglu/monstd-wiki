@@ -7,27 +7,29 @@ tags: [elements, physical]
 
 ## Overview
 
-Physical damage is the baseline damage type — no special effect, no element matchup bonus on most targets, but reliable and accessible from the first towers available. Physical towers gain a bonus against flying enemies.
+Physical damage is the baseline damage type — reliable, accessible from the first towers available, and a strong counter to flying enemies. Arrow Tower now deals +65% damage to flying targets, making it a decisive anti-air choice rather than a fallback option.
 
 ---
 
 ## Towers
 
-- [[Arrow Tower]] — single target, long range, reliable vs flyers
+- [[Arrow Tower]] — single target, long range, primary anti-air
+- [[Fire Tower]] — area splash with physical damage type
 
 ---
 
 ## Matchup Table
 
-| vs Enemy | Effectiveness |
-|---|---|
-| Armored (Golem) | Reduced (−35%) |
-| Flying | **Bonus (+30%) — Arrow Tower** |
-| No resistance | Standard |
+| vs Enemy | Multiplier | Notes |
+|---|---|---|
+| Flying | **×1.65 (+65%)** | Arrow Tower hard-counters Imps and other flyers |
+| Armored | ×0.65 (−35%) | Use [[Lightning Tower]] instead |
+| No resistance | ×1.0 | Standard |
 
 ---
 
 ## Design Notes
 
-- Physical is intentionally weaker against armored enemy compositions — use [[Lightning Tower]] to cover that weakness
-- The "beginner safe" element — reliable baseline damage, teaches why elemental diversity matters
+- Physical is the "beginner safe" element — reliable baseline, teaches why elemental diversity matters
+- The flying bonus is now strong enough to make Arrow Tower a deliberate build choice against air threats
+- Fire Tower also deals physical damage — benefits from the flying bonus if its area splash catches flyers
