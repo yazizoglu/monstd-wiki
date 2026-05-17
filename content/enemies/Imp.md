@@ -9,12 +9,12 @@ tags: [enemies, flying]
 
 ## Overview
 
-Imps are fast flying demons exclusive to the Volcanic Inferno. They bypass ground-level defenses and can only be targeted by [[Arrow Tower|Arrow]] and [[Lightning Tower|Lightning]] towers.
+Imps are flying demons exclusive to the Volcanic Inferno. They hover above the battlefield in a continuous up-down drift, bypassing ground-level defenses and can only be targeted by [[Arrow Tower|Arrow]] and [[Lightning Tower|Lightning]] towers.
 
 | Stat | Value |
 |---|---|
 | Base HP | 130 |
-| Speed | High |
+| Speed | High (70) |
 | Armor | Minimal (5%) |
 | Resistances | None |
 | Kill Reward | 12 gold |
@@ -24,6 +24,12 @@ Imps are fast flying demons exclusive to the Volcanic Inferno. They bypass groun
 ## Traits
 
 - **Flying** — Can only be targeted by Arrow Tower and Lightning Tower. Takes 30% bonus damage from those towers.
+
+---
+
+## Visual
+
+Imps visually hover — they float up and down with rapid wing-flap animation and a faint fire glow pulse. Their ground shadow is small and dim, indicating they're airborne rather than walking. They are noticeably larger than Goblins.
 
 ---
 
@@ -38,12 +44,13 @@ Imps force players to maintain Arrow or Lightning coverage throughout the Volcan
 - Bypasses most tower targeting entirely
 - High speed — must be eliminated quickly
 - Appear from wave 6 onward in increasing numbers
+- Hover animation makes them visually distinct and harder to ignore
 
 ---
 
 ## Weaknesses
 
-- Low HP — Arrow Tower kills efficiently
+- Moderate HP — Arrow Tower kills efficiently
 - Lightning Tower preferred for mixed Imp + armored waves (bonus damage to both)
 - No elemental resistance
 

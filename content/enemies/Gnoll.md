@@ -9,7 +9,7 @@ tags: [enemies, ground]
 
 ## Overview
 
-Gnolls are armored wolf-men that move nearly as fast as [[Goblin|Goblins]] while being significantly more durable. Their regeneration ability makes them dangerous when towers are spread thin.
+Gnolls are armored wolf-men that move nearly as fast as [[Goblin|Goblins]] while being significantly more durable. Their regeneration makes them dangerous when towers are spread thin. In the Volcanic Inferno (vi2–vi4), Gnolls replace Goblins as the baseline filler enemy — expect dense Gnoll packs as the main ground threat.
 
 | Stat | Value |
 |---|---|
@@ -29,7 +29,7 @@ Gnolls are armored wolf-men that move nearly as fast as [[Goblin|Goblins]] while
 
 ## Purpose
 
-Gnolls combine speed and regeneration to punish slow single-target builds. Towers that deal light, infrequent damage let Gnolls heal between shots — creating situations where they effectively cannot die without focused fire.
+Gnolls combine speed and regeneration to punish slow single-target builds. Towers that deal light, infrequent damage let Gnolls heal between shots — creating situations where they effectively cannot die without focused fire. In the later Volcanic Inferno maps they arrive in large numbers, requiring sustained area or poison coverage.
 
 ---
 
@@ -38,6 +38,7 @@ Gnolls combine speed and regeneration to punish slow single-target builds. Tower
 - Fast movement — similar pace to Goblins despite higher HP
 - Regeneration counters low-DPS setups
 - Appear alongside Imps (vi maps) or Knights (ft maps), forcing multi-threat responses
+- Dominant presence in vi2–vi4; not a secondary threat
 
 ---
 
@@ -61,5 +62,5 @@ Gnolls combine speed and regeneration to punish slow single-target builds. Tower
 
 ## Appears In
 
-- Volcanic Inferno campaign (vi1–vi4) — from wave 5
-- Frozen Tundra campaign (ft1–ft4) — from wave 3–5
+- Volcanic Inferno campaign — vi1: from wave 5 (secondary); vi2–vi4: from wave 1 (primary ground enemy, replaces Goblin)
+- Frozen Tundra campaign (ft1–ft4) — from wave 3–5 (secondary)
