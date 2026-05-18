@@ -5,7 +5,7 @@ tags: [bosses, map2, wave5]
 
 # Lav Golem
 
-![](/images/lav_golem.png)
+![](../images/lav_golem.png)
 
 The Lav Golem is the first boss of the [[Level 2|Volcanic Inferno]] — a massive molten rock construct that is completely immune to Fire damage. Its imposing size makes it immediately readable as a major threat. Players who arrived from Map 1 relying on fire-upgraded towers will find this boss impossible to counter without repositioning their build.
 

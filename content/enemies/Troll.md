@@ -5,7 +5,7 @@ tags: [enemies, ground]
 
 # Troll
 
-![](/images/troll.png)
+![](../images/troll.png)
 
 ## Overview
 

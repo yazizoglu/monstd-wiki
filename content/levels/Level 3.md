@@ -5,7 +5,7 @@ tags: [levels, level-3]
 
 # Level 3 — Frozen Tundra
 
-![](/images/island_map3.png)
+![](../images/island_map3.png)
 
 ## Overview
 

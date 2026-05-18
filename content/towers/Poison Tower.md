@@ -5,7 +5,7 @@ tags: [towers, poison]
 
 # Poison Tower
 
-![](/images/tower_poison.png)
+![](../images/tower_poison.png)
 
 ## Overview
 

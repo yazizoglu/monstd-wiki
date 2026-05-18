@@ -5,7 +5,7 @@ tags: [enemies, ground]
 
 # Gnoll
 
-![](/images/gnoll.png)
+![](../images/gnoll.png)
 
 ## Overview
 

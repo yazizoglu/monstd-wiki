@@ -5,7 +5,7 @@ tags: [towers, lightning]
 
 # Lightning Tower
 
-![](/images/tower_lightning.png)
+![](../images/tower_lightning.png)
 
 ## Overview
 

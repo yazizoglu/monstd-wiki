@@ -5,7 +5,7 @@ tags: [bosses, map3, wave5]
 
 # Ice Golem
 
-![](/images/ice_golem.png)
+![](../images/ice_golem.png)
 
 The Ice Golem is the first boss of the [[Level 3|Frozen Tundra]] — a towering construct of enchanted ice immune to Frost damage. It hits hard against defenses built around Frost slow mechanics.
 

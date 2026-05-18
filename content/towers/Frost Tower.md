@@ -5,7 +5,7 @@ tags: [towers, frost]
 
 # Frost Tower
 
-![](/images/tower_frost.png)
+![](../images/tower_frost.png)
 
 ## Overview
 

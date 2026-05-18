@@ -5,7 +5,7 @@ tags: [bosses, map3, wave20]
 
 # Lich
 
-![](/images/lich.png)
+![](../images/lich.png)
 
 The Lich is the penultimate boss of the [[Level 3|Frozen Tundra]] — an undying sorcerer sustained by ice magic at 3600 HP. It is immune to Frost and moves at medium-slow speed.
 

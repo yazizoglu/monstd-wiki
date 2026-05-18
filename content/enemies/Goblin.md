@@ -5,7 +5,7 @@ tags: [enemies, ground]
 
 # Goblin
 
-![](/images/goblin.png)
+![](../images/goblin.png)
 
 ## Overview
 

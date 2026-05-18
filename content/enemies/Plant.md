@@ -5,7 +5,7 @@ tags: [enemies, ground]
 
 # Frost Plant
 
-![](/images/plant.png)
+![](../images/plant.png)
 
 ## Overview
 

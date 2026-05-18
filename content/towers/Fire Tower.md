@@ -5,7 +5,7 @@ tags: [towers, fire]
 
 # Fire Tower
 
-![](/images/tower_fire.png)
+![](../images/tower_fire.png)
 
 ## Overview
 

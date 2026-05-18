@@ -5,7 +5,7 @@ tags: [levels, level-2]
 
 # Level 2 — Volcanic Inferno
 
-![](/images/island_map2.png)
+![](../images/island_map2.png)
 
 ## Overview
 

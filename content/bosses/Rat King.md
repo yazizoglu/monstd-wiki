@@ -5,7 +5,7 @@ tags: [bosses, map2, wave10]
 
 # Rat King
 
-![](/images/rat_king.png)
+![](../images/rat_king.png)
 
 The Rat King is the second boss of the [[Level 2|Volcanic Inferno]] — a massive rodent overlord resistant to Poison. At 2100 HP and medium speed, it is a significant HP spike over the Lav Golem and forces players off easy Poison DoT strategies.
 

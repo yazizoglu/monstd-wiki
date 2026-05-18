@@ -5,7 +5,7 @@ tags: [bosses, map1, wave15]
 
 # Medusa
 
-![](/images/medusa.png)
+![](../images/medusa.png)
 
 Medusa is the third boss of the [[Level 1|Cursed Wilds]] — a serpentine creature that glides at medium speed with substantial HP. Unlike earlier bosses, she has no elemental immunities, making her a test of raw DPS output.
 

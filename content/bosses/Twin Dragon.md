@@ -5,7 +5,7 @@ tags: [bosses, map1, wave25, final-boss]
 
 # Twin Dragon
 
-![](/images/twin_dragon.png)
+![](../images/twin_dragon.png)
 
 The Twin Dragon is the final boss of the [[Level 1|Cursed Wilds]] — a two-headed fire dragon with the highest HP of any Map 1 enemy. It is immune to Fire damage and moves slowly, but reaching wave 25 with full HP means an almost certain escape if the defense is under-built.
 

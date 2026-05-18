@@ -5,7 +5,7 @@ tags: [bosses, map3, wave10]
 
 # Frozen Knight
 
-![](/images/frozen_knight.png)
+![](../images/frozen_knight.png)
 
 The Frozen Knight is the second boss of the [[Level 3|Frozen Tundra]] — an armored undead warrior infused with ice magic. It is immune to both Frost and Lightning, one of the toughest double-resist bosses in the game.
 

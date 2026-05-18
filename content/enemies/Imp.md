@@ -5,7 +5,7 @@ tags: [enemies, flying]
 
 # Imp
 
-![](/images/imp.png)
+![](../images/imp.png)
 
 ## Overview
 

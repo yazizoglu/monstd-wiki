@@ -5,7 +5,7 @@ tags: [towers, physical]
 
 # Arrow Tower
 
-![](/images/tower_arrow.png)
+![](../images/tower_arrow.png)
 
 ## Overview
 

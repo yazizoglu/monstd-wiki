@@ -5,7 +5,7 @@ tags: [bosses, map3, wave25, final-boss]
 
 # Frostmourne Demon
 
-![](/images/frostmourne_demon.png)
+![](../images/frostmourne_demon.png)
 
 The Frostmourne Demon is the final boss of the [[Level 3|Frozen Tundra]] and the hardest boss in the base game — a massive demon of corrupted ice magic with 6000 HP. It is immune to Frost and Lightning, heavily armored, and moves at the slowest speed of any boss in the game.
 

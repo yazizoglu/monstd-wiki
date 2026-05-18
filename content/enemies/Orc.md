@@ -5,7 +5,7 @@ tags: [enemies, ground]
 
 # Orc
 
-![](/images/orc.png)
+![](../images/orc.png)
 
 ## Overview
 
