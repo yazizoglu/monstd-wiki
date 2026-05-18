@@ -37,7 +37,7 @@ Gnolls combine speed and regeneration to punish slow single-target builds. Tower
 
 - Fast movement — similar pace to Goblins despite higher HP
 - Regeneration counters low-DPS setups
-- Appear alongside Imps (vi maps) or Knights (ft maps), forcing multi-threat responses
+- Appear alongside Imps (vi maps) or Orcs (ft maps), forcing multi-threat responses
 - Dominant presence in vi2–vi4; not a secondary threat
 
 ---
