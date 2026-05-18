@@ -19,7 +19,7 @@ First public release of MonsTD. Three campaign levels, five tower types, six sta
 ## Content
 
 - **Towers:** [[Arrow Tower]], [[Fire Tower]], [[Frost Tower]], [[Lightning Tower]], [[Poison Tower]]
-- **Enemies:** [[Goblin]], [[Troll]], [[Knight]], [[Imp]], [[Gnoll]], [[Plant|Frost Plant]]
+- **Enemies:** [[Goblin]], [[Troll]], [[Orc]], [[Imp]], [[Gnoll]], [[Plant|Frost Plant]]
 - **Map 1 Bosses:** [[Ent]], [[Golem]], [[Medusa]], [[Crimson Stalker]], [[Twin Dragon]]
 - **Map 2 Bosses:** [[Lav Golem]], [[Rat King]], [[Vampire]], [[Lizardman]], [[Demon]]
 - **Map 3 Bosses:** [[Ice Golem]], [[Frozen Knight]], [[Vampire]], [[Lich]], [[Frostmourne Demon]]

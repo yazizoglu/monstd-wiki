@@ -30,9 +30,9 @@ ThreatScore = HP × (speed / 50) × abilityMult × resistMult
 | [[Imp]] | 130 | 70 | 1.40 | 1.2 | 1.0 | **218** | flying |
 | [[Troll]] | 200 | 45 | 0.90 | 1.0 | 1.3 | **234** | armorPlated |
 | [[Gnoll]] | 160 | 65 | 1.30 | 1.2 | 1.0 | **250** | regenerating |
-| [[Knight]] | 240 | 52 | 1.04 | 1.0 | 1.3 | **325** | armorPlated |
+| [[Orc]] | 240 | 52 | 1.04 | 1.0 | 1.3 | **325** | armorPlated |
 
-> Threat 86 (Goblin) ile 325 (Knight) arasında 3.8× fark var. Knight gelen wave'de Lightning Tower olmaması kritik kayıp anlamına gelir.
+> Threat 86 (Goblin) ile 325 (Orc) arasında 3.8× fark var. Orc gelen wave'de Lightning Tower olmaması kritik kayıp anlamına gelir.
 
 ---
 

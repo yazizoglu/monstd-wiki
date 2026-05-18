@@ -33,7 +33,7 @@ Five tower types — each with a distinct damage type, role, and upgrade path.
 ### Enemies
 Standard enemies that fill regular waves between boss encounters.
 
-[[Goblin]] · [[Troll]] · [[Knight]] · [[Imp]] · [[Gnoll]] · [[Plant|Frost Plant]]
+[[Goblin]] · [[Troll]] · [[Orc]] · [[Imp]] · [[Gnoll]] · [[Plant|Frost Plant]]
 
 → [[enemies/index|All Enemies]]
 

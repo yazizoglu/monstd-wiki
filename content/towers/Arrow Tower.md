@@ -39,7 +39,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 ## Weaknesses
 
 - No area damage — weak against large swarms
-- [[Physical]] damage is reduced by armored enemies ([[Troll]], [[Knight]], [[Golem]] boss)
+- [[Physical]] damage is reduced by armored enemies ([[Troll]], [[Orc]], [[Golem]] boss)
 - Below-average damage per shot compared to specialized towers
 
 ---
@@ -56,7 +56,7 @@ The Arrow Tower is the foundational defensive unit in MonsTD. It fires single-ta
 
 ## Countered By
 
-- Armored enemies ([[Troll]], [[Knight]], [[Golem]] boss) — Physical damage reduced
+- Armored enemies ([[Troll]], [[Orc]], [[Golem]] boss) — Physical damage reduced
 - Fast swarms — Arrow's single-target fire cannot keep up
 
 ---

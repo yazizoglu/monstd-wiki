@@ -26,7 +26,7 @@ date: 2026-05
 Imps now hover. The icon bobs up and down continuously with rapid wing-flap scaling and a red fire glow pulse. The ground shadow is reduced to a small, dim ellipse to indicate the creature is airborne. Imp size increased (~29% larger) to improve readability among other enemies.
 
 ### Gnoll — Size & Role Increase
-Gnoll size increased to match [[Knight]] visually. In Volcanic Inferno maps vi2, vi3, and vi4, Gnoll now replaces Goblin as the baseline filler enemy — arriving from wave 1 and forming the primary ground threat. In vi1, Goblin remains for the first four waves as a transition.
+Gnoll size increased to match [[Orc]] visually. In Volcanic Inferno maps vi2, vi3, and vi4, Gnoll now replaces Goblin as the baseline filler enemy — arriving from wave 1 and forming the primary ground threat. In vi1, Goblin remains for the first four waves as a transition.
 
 ### Lav Golem — Size Increase
 Lav Golem size significantly increased to reflect its role as the first major boss of Volcanic Inferno. Now visually comparable to [[Golem|Stone Golem]] in presence.

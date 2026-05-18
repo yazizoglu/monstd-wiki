@@ -37,7 +37,7 @@ Every tower deals one damage type. Every enemy may have one or more resistances.
 |---|---|---|
 | [[Goblin]] | None | None |
 | [[Troll]] | Armored (Physical −35%) | Lightning +35% |
-| [[Knight]] | Armored (Physical −35%) | Lightning +35% |
+| [[Orc]] | Armored (Physical −35%) | Lightning +35% |
 | [[Imp]] | Flying | Physical +30% from Arrow/Lightning |
 | [[Gnoll]] | Regenerating | Poison +50% |
 | [[Plant\|Frost Plant]] | Poison (−75%) | Lightning, Fire |

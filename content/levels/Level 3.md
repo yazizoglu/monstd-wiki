@@ -26,7 +26,7 @@ The Frozen Tundra is the most challenging campaign level. Every boss is immune t
 - Frost immunity on all bosses — [[Frost Tower]] damage is wasted on bosses
 - Lightning immunity ([[Frozen Knight]], [[Frostmourne Demon]]) — removes armor counter on hardest bosses
 - Regeneration ([[Vampire]] boss, wave 15) — requires Poison
-- [[Knight]] ground enemies (from wave 6) — armored at medium speed
+- [[Orc]] ground enemies (from wave 6) — armored at medium speed
 
 ---
 
@@ -37,7 +37,7 @@ The Frozen Tundra is the most challenging campaign level. Every boss is immune t
 | [[Poison Tower]] | Essential | Only DoT source; counters Vampire regeneration |
 | Fire-upgraded towers | Essential | Ice weakness on all bosses; Frostmourne Demon counter |
 | [[Arrow Tower]] | High | Volume damage, no resist penalties |
-| [[Lightning Tower]] | Medium | Armor pierce on Knights; useless vs 2 bosses |
+| [[Lightning Tower]] | Medium | Armor pierce on Orcs; useless vs 2 bosses |
 | [[Frost Tower]] | Low | Slow only — all bosses immune to Frost damage |
 
 ---
@@ -49,13 +49,13 @@ The Frozen Tundra is the most challenging campaign level. Every boss is immune t
 | 1–3 | [[Goblin]] |
 | 4–5 | [[Goblin]], [[Troll]] |
 | 5 | Boss — [[Ice Golem]] |
-| 6–9 | [[Goblin]], [[Troll]], [[Knight]] |
+| 6–9 | [[Goblin]], [[Troll]], [[Orc]] |
 | 10 | Boss — [[Frozen Knight]] |
-| 11–14 | [[Goblin]], [[Troll]], [[Knight]] |
+| 11–14 | [[Goblin]], [[Troll]], [[Orc]] |
 | 15 | Boss — [[Vampire]] |
-| 16–19 | [[Goblin]], [[Troll]], [[Knight]] |
+| 16–19 | [[Goblin]], [[Troll]], [[Orc]] |
 | 20 | Boss — [[Lich]] |
-| 21–24 | Heavy mix: Troll, Knight |
+| 21–24 | Heavy mix: Troll, Orc |
 | 25 | [[Frostmourne Demon]] |
 
 ---

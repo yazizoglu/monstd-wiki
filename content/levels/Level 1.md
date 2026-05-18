@@ -26,7 +26,7 @@ The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower 
 - Tower placement
 - Wave system (25 waves)
 - Boss waves (5, 10, 15, 20, 25)
-- Armor (Troll, Knight, boss Golem) — Lightning counter
+- Armor (Troll, Orc, boss Golem) — Lightning counter
 - Poison immunity (Ent, Golem bosses) — limits Poison Tower
 
 ---
@@ -37,7 +37,7 @@ The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower 
 |---|---|---|
 | [[Arrow Tower]] | Essential | Long-range generalist, early coverage |
 | [[Fire Tower]] | High | Goblin swarm waves require area damage |
-| [[Lightning Tower]] | High | Armor-pierce for Troll, Knight, Golem boss |
+| [[Lightning Tower]] | High | Armor-pierce for Troll, Orc, Golem boss |
 | [[Frost Tower]] | Medium | Support slow; valuable before boss waves |
 | [[Poison Tower]] | Low | Ineffective on most bosses here (Ent, Golem immune) |
 
@@ -50,13 +50,13 @@ The Cursed Wilds is the introductory level of MonsTD. It teaches the core tower 
 | 1–3 | [[Goblin]] |
 | 4–7 | [[Goblin]], [[Troll]] |
 | 5 | Boss — [[Ent]] |
-| 8–9 | [[Goblin]], [[Troll]], [[Knight]] |
+| 8–9 | [[Goblin]], [[Troll]], [[Orc]] |
 | 10 | Boss — [[Golem]] |
-| 11–14 | [[Goblin]], [[Troll]], [[Knight]] |
+| 11–14 | [[Goblin]], [[Troll]], [[Orc]] |
 | 15 | Boss — [[Medusa]] |
-| 16–19 | [[Goblin]], [[Troll]], [[Knight]] |
+| 16–19 | [[Goblin]], [[Troll]], [[Orc]] |
 | 20 | Boss — [[Crimson Stalker]] |
-| 21–24 | Heavy mix: Troll, Knight |
+| 21–24 | Heavy mix: Troll, Orc |
 | 25 | [[Twin Dragon]] |
 
 ---

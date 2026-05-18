@@ -1,15 +1,15 @@
 ---
-title: Knight
+title: Orc
 tags: [enemies, ground]
 ---
 
-# Knight
+# Orc
 
-![](/images/knight.png)
+![](/images/orc.png)
 
 ## Overview
 
-Knights are armored ground soldiers with more HP and higher armor than [[Troll|Trolls]]. They appear in later waves and represent the primary high-durability threat on Cursed Wilds and Frozen Tundra.
+Orcs are armored ground soldiers with more HP and higher armor than [[Troll|Trolls]]. They appear in later waves and represent the primary high-durability threat on Cursed Wilds and Frozen Tundra.
 
 | Stat | Value |
 |---|---|
@@ -23,13 +23,13 @@ Knights are armored ground soldiers with more HP and higher armor than [[Troll|T
 
 ## Traits
 
-- **Armor Plated** — Physical damage reduced by 35%. Lightning deals 35% bonus damage.
+- **Armor Plated** — Physical damage reduced by 35%. Lightning deals bonus damage.
 
 ---
 
 ## Purpose
 
-Knights are the end-game ground threat on armored maps. Unlike Trolls, they move at medium speed — providing both durability and pace pressure simultaneously.
+Orcs are the end-game ground threat on armored maps. Unlike Trolls, they move at medium speed — providing both durability and pace pressure simultaneously.
 
 ---
 
@@ -53,8 +53,8 @@ Knights are the end-game ground threat on armored maps. Unlike Trolls, they move
 
 | Tower | Reason |
 |---|---|
-| [[Lightning Tower]] | Primary counter; deals 35% bonus to armored enemies |
-| [[Frost Tower]] | Slows medium-speed Knights into easy targets |
+| [[Lightning Tower]] | Primary counter; deals bonus damage to armored enemies |
+| [[Frost Tower]] | Slows medium-speed Orcs into easy targets |
 | [[Poison Tower]] | Armor-ignoring DoT effective on high-HP targets |
 
 ---

@@ -68,7 +68,7 @@ ThreatScore = HP × (speed / 50) × abilityMult × resistMult
 |-------|-----|-------|--------|-------|---------|-----------|-------|
 | Goblin | 60 | 72 | 1.44 | 1.0 | 1.0 | **86** | — |
 | Troll | 200 | 45 | 0.90 | 1.0 | 1.3 | **234** | armorPlated |
-| Knight | 240 | 52 | 1.04 | 1.0 | 1.3 | **325** | armorPlated |
+| Orc | 240 | 52 | 1.04 | 1.0 | 1.3 | **325** | armorPlated |
 | Imp | 130 | 70 | 1.40 | 1.2 | 1.0 | **218** | flying |
 | Gnoll | 160 | 65 | 1.30 | 1.2 | 1.0 | **250** | regenerating |
 | Plant | 140 | 38 | 0.76 | 1.0 | 1.3 | **138** | poisonResist |

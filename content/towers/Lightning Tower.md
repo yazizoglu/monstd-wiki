@@ -16,14 +16,14 @@ The Lightning Tower fires bolts that chain between nearby enemies, hitting multi
 | Damage Type | [[Lightning]] |
 | Target | Chain (multi-target) |
 | Range | Medium |
-| Fire Rate | High |
+| Fire Rate | Medium |
 | Special | Bolt chains to nearby enemies |
 
 ---
 
 ## Role
 
-**Chain Damage / Anti-Armor.** Lightning bypasses physical armor, making it the hard counter to armored enemies like [[Troll]], [[Knight]], and boss [[Golem]]. The chain mechanic rewards dense wave placement.
+**Chain Damage / Anti-Armor.** Lightning bypasses physical armor, making it the hard counter to armored enemies like [[Troll]], [[Orc]], and boss [[Golem]]. The chain mechanic rewards dense wave placement.
 
 ---
 
@@ -31,7 +31,7 @@ The Lightning Tower fires bolts that chain between nearby enemies, hitting multi
 
 - [[Lightning]] damage ignores armor — full damage vs armored enemies
 - Chain hit multiplies damage output on grouped enemies
-- High fire rate maintains consistent pressure
+- Consistent damage pressure when enemies travel close together
 - Strong pick on [[Level 2]] and [[Level 3]] where armored enemies appear frequently
 
 ---
@@ -64,6 +64,6 @@ The Lightning Tower fires bolts that chain between nearby enemies, hitting multi
 
 ## Recommended Usage
 
-- Essential pick whenever armored enemies ([[Troll]], [[Knight]], [[Golem]] boss) appear in wave composition
+- Essential pick whenever armored enemies ([[Troll]], [[Orc]], [[Golem]] boss) appear in wave composition
 - Place at the densest part of the path for maximum chain value
 - Combine with [[Frost Tower]] upstream for clustered chain opportunities
